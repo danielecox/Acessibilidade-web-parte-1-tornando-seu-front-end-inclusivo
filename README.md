@@ -1,6 +1,5 @@
 # Acessibilidade-web-parte-1-tornando-seu-front-end-inclusivo
 
-Faça esse curso de HTML e CSS e:
 Melhore seu site para usuários de leitor de tela;
 Aprenda a testar seu site usando o NVDA;
 
